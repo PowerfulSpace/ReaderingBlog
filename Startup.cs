@@ -175,7 +175,6 @@ namespace ReaderingBlog
 
 
 
-
             #region Подключаем утентификацию и авторизацию
 
             app.UseCookiePolicy();
